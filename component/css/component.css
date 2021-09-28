@@ -1,0 +1,17 @@
+
+				body {
+						background-color: #cccccc;
+					}
+					h1{
+				     	background-color: rgb(173, 114, 103);
+						 color:goldenrod;
+					}
+					p{
+						color: white;
+					}
+			.abc,h2,h3,h6{
+				color: red;
+			
+				text-decoration: none;
+				padding:10px;				
+			}
